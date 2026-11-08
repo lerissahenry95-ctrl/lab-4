@@ -4,23 +4,23 @@ Save this document as YourLastName_Lab4_Submission.txt.
 Complete it in a plain-text editor and submit it to Brightspace.
 Keep it out of your public GitHub repository.
 
-Name:
-Fictional club or service name:
+Name:Lerissa Henry
+Fictional club or service name:Student wellness Club
 
-Live app URL (the actual .streamlit.app address):
+Live app URL (the actual .streamlit.app address):https://cis-221-lab-dyqwz5khinld2f7vsu5vxh.streamlit.app/
 GitHub repository URL:
 
 FINAL SOURCE AND APP CHECK
-I downloaded app.py and requirements.txt from the current GitHub version: Yes / No
-I checked my app in a private/incognito browser window: Yes / No
-My screenshot(s) show the full rendered app: Yes / No
+I downloaded app.py and requirements.txt from the current GitHub version: Yes 
+I checked my app in a private/incognito browser window: Yes 
+My screenshot(s) show the full rendered app: Yes 
 
 LIST CHANGE CHECK
-Original number of items:
-New item added to my Python list:
-Final number of items:
+Original number of items:3
+New item added to my Python list:Peer support circles where students can share experiences 
+Final number of items:4
 What the app displayed after I committed the change:
-Did I need a new display statement for that item? Explain briefly:
+Did I need a new display statement for that item? Explain briefly: No,the for loop display each item in the list automatically. 
 
 DICTIONARY CHANGE CHECK
 Key I changed:
