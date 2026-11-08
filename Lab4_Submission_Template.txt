@@ -1,0 +1,44 @@
+CIS 211 - Lab 4 Submission
+
+Save this document as YourLastName_Lab4_Submission.txt.
+Complete it in a plain-text editor and submit it to Brightspace.
+Keep it out of your public GitHub repository.
+
+Name:
+Fictional club or service name:
+
+Live app URL (the actual .streamlit.app address):
+GitHub repository URL:
+
+FINAL SOURCE AND APP CHECK
+I downloaded app.py and requirements.txt from the current GitHub version: Yes / No
+I checked my app in a private/incognito browser window: Yes / No
+My screenshot(s) show the full rendered app: Yes / No
+
+LIST CHANGE CHECK
+Original number of items:
+New item added to my Python list:
+Final number of items:
+What the app displayed after I committed the change:
+Did I need a new display statement for that item? Explain briefly:
+
+DICTIONARY CHANGE CHECK
+Key I changed:
+Previous value:
+New value:
+What the app displayed after I committed the change:
+
+REFLECTION (4-6 sentences, in your own words)
+Explain Markdown versus Python; how your list and dictionary affect the page;
+how a committed source change reaches the app; and one difficulty or useful check.
+
+[Write your reflection here.]
+
+ATTACHMENTS TO UPLOAD IN BRIGHTSPACE
+- This completed submission document
+- Final app.py
+- Final requirements.txt
+- One or more screenshots showing the current full app
+
+Check the Lab 4 Brightspace assignment for the due date. Select Submit and
+confirm that the submission record contains all required files.
