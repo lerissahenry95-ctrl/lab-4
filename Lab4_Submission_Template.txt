@@ -23,7 +23,7 @@ What the app displayed after I committed the change:
 Did I need a new display statement for that item? Explain briefly: No,the for loop display each item in the list automatically. 
 
 DICTIONARY CHANGE CHECK
-Key I changed:
+Key I changed: none
 Previous value:
 New value:
 What the app displayed after I committed the change:
@@ -32,7 +32,7 @@ REFLECTION (4-6 sentences, in your own words)
 Explain Markdown versus Python; how your list and dictionary affect the page;
 how a committed source change reaches the app; and one difficulty or useful check.
 
-[Write your reflection here.]
+[Markdown is used for formatting and designing the webpage, while Python is used for writing code and making the page functional.My Student Wellness Club activity list displays different activities that promote students' physical, mental, and emotional health.My dictionary helps the page by showing organized information using key-value pairs.After I commit my changes to GitHub, my updated code is saved to my repository so I can track my progress.One difficulty I experienced was getting my code to work correctly, but I learned how to troubleshoot errors and fix my mistakes.]
 
 ATTACHMENTS TO UPLOAD IN BRIGHTSPACE
 - This completed submission document
